@@ -1,0 +1,8 @@
+{
+  "name": "wemanity",
+  "app_id": "2dc83c21",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
